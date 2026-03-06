@@ -43,7 +43,7 @@
                         @csrf
                         <div class="card">
                             <div class="card-header">
-                                <h6>আপনার অর্ডারটি কনফার্ম করতে তথ্যগুলো পূরণ করে <span style="color:#695DFD;">"অর্ডার
+                                <h6>আপনার অর্ডারটি কনফার্ম করতে তথ্যগুলো পূরণ করে <span style="color:#1dac53;">"অর্ডার
                                         করুন"</span> বাটন এ ক্লিক করুন</h6>
 
                             </div>
